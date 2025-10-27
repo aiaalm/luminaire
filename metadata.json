@@ -1,0 +1,5 @@
+{
+  "name": "Relevés de Luminaires",
+  "description": "An application for conducting on-site lighting fixture surveys for schools. Allows users to manage data hierarchically (School -> Floor -> Room -> Fixture) and export the results to JSON or CSV.",
+  "requestFramePermissions": []
+}
